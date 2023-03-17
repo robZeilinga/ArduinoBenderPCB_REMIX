@@ -1,6 +1,8 @@
 # ArduinoBenderPCB_REMIX
 Remix of PCB for Arduino controlled Wire Bender - Eagle Files
 
+# NB NB : The PDF diagram is Mirrored! If you want to use this to make the PCB using Toner Transfer, You will need to mirror the PDF before Printing. 
+
 A friend of mine wanted to build the AWESOME arduino controlled Wire Bender project by **How To Mechatronics**
 
 project URL : https://howtomechatronics.com/projects/arduino-3d-wire-bending-machine/
